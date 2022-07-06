@@ -1,7 +1,23 @@
 # PEEP COMMANDS 
 
-git clone https://github.com/BRAITON-KARADAG/PEEP
+$ pkg update
 
-cd PEEP
+$ pkg upgrade
 
-python Peep.py
+$ pkg install git 
+
+$ pkg install python
+
+$ pkg install python2
+
+$ pip2 install requests
+
+$ pip2 install mechanize 
+
+$ git clone https://github.com/BRAITON-KARADAG/PEEP
+
+$ cd PEEP
+
+$ python Peep.py
+
+#Enjoy my useless commands 
